@@ -39,7 +39,7 @@
           </h1>
 
           <p class="max-w-[600px] text-lg text-gray-400">
-            大三本科在读 / 欢迎来到我的赛博小屋
+            大三本科在读 / 欢迎
           </p>
         </div>
 
